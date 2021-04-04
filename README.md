@@ -5,10 +5,7 @@
 to my GitHub
 }
 ```
-
-![Afi's Stat](https://github-readme-stats.vercel.app/api/wakatime?username=Afi&theme=tokyonight)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afi&theme=tokyonight&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 
