@@ -2,8 +2,8 @@
 
 ```css
 .Welcome { 
-/* to my GitHub 👋
-
+to my GitHub 👋
+/*
 Discord: "https://discord.bio/p/afi"
 Twitter: "https://twitter.com/dev_afi"
 Codepen: "https://codepen.io/Afi_" */
