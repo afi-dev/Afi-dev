@@ -2,7 +2,7 @@
 
 ```css
 .Welcome { 
-to my GitHub 😀
+to my GitHub 👋
 }
 ```
 
