@@ -6,7 +6,7 @@ to my GitHub
 }
 ```
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Afi)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Afi-dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afi-dev&show_icons=true&theme=tokyonight)
 
 <p align="center"><img src="https://i.imgur.com/QBkS6bd.png"><img src="https://i.imgur.com/pirVf4i.png"> <img src="https://i.imgur.com/jjOMCGF.png"></p>
