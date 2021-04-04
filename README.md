@@ -6,7 +6,7 @@ to my GitHub
 }
 ```
 
-[![Afi's Stat](https://github-readme-stats.vercel.app/api/wakatime?username=Afi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Afi's Stat](https://github-readme-stats.vercel.app/api/wakatime?username=Afi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afi&theme=tokyonight&hide=contribs,prs)
 
