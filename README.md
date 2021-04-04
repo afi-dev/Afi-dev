@@ -3,7 +3,9 @@
 ```css
 .Welcome { 
 to my GitHub 👋
-Discord: "https://discord.bio/p/afi"
+
+DiscordBio: "https://discord.bio/p/afi"
+Twitter: "dev_afi"
 }
 ```
 
