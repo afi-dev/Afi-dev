@@ -5,7 +5,7 @@
 to my GitHub 👋
 
 DiscordBio: "https://discord.bio/p/afi"
-Twitter: "dev_afi"
+Twitter: "https://twitter.com/dev_afi"
 }
 ```
 
