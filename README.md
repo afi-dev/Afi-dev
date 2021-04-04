@@ -3,6 +3,7 @@
 ```css
 .Welcome { 
 to my GitHub 👋
+Discord: https://discord.bio/p/afi
 }
 ```
 
