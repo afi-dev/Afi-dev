@@ -12,7 +12,7 @@ Codepen: "https://codepen.io/Afi_"
 }
 ```
 <p align="center" >
-<a href='https://ko-fi.com/D1D146BCF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>&nbsp;&nbsp;&nbsp;<a href='https://github.com/Cerium-Team' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.imgur.com/OzVEimh.png' border='0' alt='' /></a>&nbsp;&nbsp;&nbsp;<a href='#' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.imgur.com/ksse1oh.png' border='0' alt='' /></a>
+<a href='https://ko-fi.com/D1D146BCF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>&nbsp;&nbsp;&nbsp;<a href='https://github.com/Cerium-Team' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.imgur.com/OzVEimh.png' border='0' alt='' /></a>&nbsp;&nbsp;&nbsp;<a href='#' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://i.imgur.com/ksse1oh.png' border='0' alt='' /></a>
   
 </p>
 
