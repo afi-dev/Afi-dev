@@ -16,7 +16,7 @@ Codepen: "https://codepen.io/Afi_"
   
 </p>
 
-<p align="center"><img src="https://i.imgur.com/QBkS6bd.png"><img src="https://i.imgur.com/pirVf4i.png"> <img src="https://i.imgur.com/jjOMCGF.png"></p>
+<p align="center"><img src="https://i.imgur.com/6sHTnXZ.png"><img src="https://i.imgur.com/O2qOKCD.png"> <img src="https://i.imgur.com/jjOMCGF.png"></p>
 
 <p align="center">
   
