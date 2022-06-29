@@ -8,7 +8,7 @@ const aboutMe = function() {
   return {
 
     username: 'Afi',
-    me: 'Julien'
+    me: 'Julien',
     discord: 'https://discord.bio/p/afi',
     twitter: 'https://twitter.com/dev_afi'
 
