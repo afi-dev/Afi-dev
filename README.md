@@ -11,7 +11,6 @@ const aboutMe = function() {
     me: 'Julien'
     discord: 'https://discord.bio/p/afi',
     twitter: 'https://twitter.com/dev_afi'
-    codepen: 'https://codepen.io/Afi_',
 
   }
 
