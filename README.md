@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Afi
+## Hi there 👋 I'm Kaelian/Afi
+
+Hi, I'm Kaelian, known as Afi. A lover of code and an expert in creating bugs, I prefer the dark to the light of day.
 
 ## 📬 Contact me
 
