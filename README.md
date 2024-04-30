@@ -1,8 +1,22 @@
-### Hi there 👋 I'm Afi
+## Hi there 👋 I'm Afi
 
-...
+## 📬 Contact me
 
-### 🪛 My favorite work tools 💖
+- [Twitter](https://twitter.com/dev_afi)
+- [Mail](mailto:aconique@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/kaelianbaudelet)
+- [Thread](https://www.threads.net/@kaelian.baudelet)
+- [Mastodon](https://mastodon.social/kaelian)
+
+## 📦 Projects
+
+- ✨ [Kaelian](https://kaelian.dev) — My personal website, where you can find my projects, my blog and my resume.
+- ✨ [Termsteel](https://github.com/afi-dev/Termsteel) — Modern web sleek terminal
+- ✨ [SpartSight](https://spartsight.com) — My main project, a cloud platform for remote server administration
+
+
+
+## 🪛 My favorite work tools 💖
 
 🔮 Node Back-End Stack
 
